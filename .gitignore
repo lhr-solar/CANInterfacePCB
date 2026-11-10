@@ -39,3 +39,5 @@ Production/
 
 # Backups
 *-backups/*
+# KiCad local history
+.history/
